@@ -1,8 +1,6 @@
 # turbobytes-Java
-=================
 
 Java library to access Turbobytes API
-
 
 Sample usage, to purge a file
 
